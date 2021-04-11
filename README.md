@@ -3,7 +3,7 @@
 Jawan is a PHP MVC Framework for building and developing web-based applications.
 I built this framework in **2017**.
 
-**Jawan Framework IS NOT A PRODUCTION-READY !**
+**NOTE: Jawan Framework IS NOT A PRODUCTION-READY !**
 
 ## Requirements
 
@@ -49,10 +49,10 @@ To contribute to Jawan Framework, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contact
+## Follow me
 
-If you want to contact me you can reach me at <fahadalkhayyal9@gmail.com>.
+[https://twitter.com/fhddev](https://twitter.com/fhddev)
 
 ## License
 
-This project uses the following license: [MIT license](https://opensource.org/licenses/MIT).
+This project uses the following license: [MIT license](LICENSE).
